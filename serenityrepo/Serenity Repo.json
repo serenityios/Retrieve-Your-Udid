@@ -1,0 +1,49 @@
+{
+  "name": "Serenity Repo",
+  "subtitle": "The Source Of Serenity.",
+  "description": "Just Downloaded Serenity?\n\nThis is our Repo, where we Test & Add Apps.\nWe Try Our Best to keep these updated, As we are only 2 Workers.",
+  "iconURL": "https://i.imgur.com/17sYyRS.png",
+  "website": "https://serenityios.com/",
+  "patreonURL": "",
+  "tintColor": "#e26f56",
+  "featuredApps": [
+    "com.sparklechan.swifty"
+  ],
+  "apps": [
+    {
+      "name": "FCM",
+      "bundleIdentifier": "com.sparklechan.swifty",
+      "marketplaceID": "",
+      "developerName": "seanistethered",
+      "subtitle": "Compile Apps",
+      "localizedDescription": "FridaCodeManager\n\nThis App lets you compile Objective C Apps.\n\nThis is the Stock Version, it lets you just compile Objective C apps it can't dp a lot.",
+      "iconURL": "https://i.imgur.com/1O45rYT.png",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/uwfab5Y.png",
+        "https://i.imgur.com/7xJOLYf.png",
+        "https://i.imgur.com/La0dgKs.png",
+        "https://i.imgur.com/WOlldBV.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/seanistethered/FridaCodeManager/releases/download/v1.6/FridaCodeManager-stock-alpha.ipa",
+          "size": 66804776,
+          "version": "1.6",
+          "buildVersion": "",
+          "date": "2025-04-18T08:48:00+02:00",
+          "localizedDescription": "Stock FridaCodeManager\n\nSupports NonJB",
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
